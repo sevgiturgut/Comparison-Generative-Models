@@ -8,10 +8,10 @@ This repository contains the full implementation of the generative model experim
 
 We evaluate models on the following single-cell datasets:
 
-- **PBMC3K** – processed via Scanpy
-- **PBMC68K** – processed data downloaded from the [ACTIVA repository](https://github.com/google-research/google-research/tree/master/activa)
-- **HCA-BM10K** – subset of Human Cell Atlas bone marrow data
-- **Integrated Pancreatic Dataset** – custom merged and annotated dataset
+- **PBMC3K** – data downloaded from [Link](https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz) [Tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
+- **PBMC68K** – processed data downloaded from the [ACTIVA repository](https://github.com/SindiLab/ACTIVA)
+- **HCA-BM10K** – subset of Human Cell Atlas bone marrow data (Tutorial)[https://bioconductor.org/books/3.12/OSCA/hca-human-bone-marrow-10x-genomics.html]
+- **Integrated Pancreatic Dataset** – Custom merged dataset
 
 ---
 
@@ -33,7 +33,7 @@ Training params (shared):
 ### 2. **SDV Tabular Models**
 - **CTGAN** – Conditional GAN for tabular data
 - **TVAE** – Variational Autoencoder for tabular data
-
+- **GC** - Gaussian Copula for tabular data
 ---
 
 ## 🔁 Data Splitting Strategies
