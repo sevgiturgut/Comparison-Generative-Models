@@ -10,8 +10,8 @@ We evaluate models on the following single-cell datasets:
 
 - **PBMC3K** – data downloaded from [Link](https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)
 - **PBMC68K** – processed data downloaded from the [ACTIVA repository](https://github.com/SindiLab/ACTIVA)
-- **HCA-BM10K** – subset of Human Cell Atlas bone marrow data (Package)[https://bioconductor.org/packages/release/data/experiment/html/HCAData.html]
-- **Integrated Pancreatic Dataset** – Custom merged dataset ((GSE84133)[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133], (GSE85241)[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85241], (E-MTAB-5061)[https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5061/], (GSE83139)[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83139])
+- **HCA-BM10K** – subset of Human Cell Atlas bone marrow data [Package](https://bioconductor.org/packages/release/data/experiment/html/HCAData.html)
+- **Integrated Pancreatic Dataset** – Custom merged dataset ([GSE84133](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133), [GSE85241](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85241), [E-MTAB-5061](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5061/), [GSE83139](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83139]))
 
 ---
 
