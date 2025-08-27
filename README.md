@@ -59,8 +59,8 @@ We evaluate models on the following single-cell datasets:
 ## 🧪 Models
 
 ### 1. **Flow-based Models**
-- **MAF-FB**: Baseline model using *Masked Affine Autoregressive Transform* (MAF_FB.ipynb)
-- **MOE-FB**: Our proposed model extending MAF-FB with: (MOE_FB.ipynb)
+- **MAF-FB**: Baseline model using *Masked Affine Autoregressive Transform* (**Notebook:** `MAF_FB.ipynb`)
+- **MOE-FB**: Our proposed model extending MAF-FB with: (**Notebook:** `MOE_FB.ipynb`)
   - **Learnable feature masking**
   - **Mixture-of-Experts attention** (10 heads, 4 experts)
   - **ActNorm** layer (optional via CLI)
@@ -72,9 +72,9 @@ Training params (shared):
 - Learning rate: `1e-6`
 
 ### 2. **SDV Tabular Models**
-- **CTGAN** – Conditional GAN for tabular data (SDV_CTGAN.ipynb)
-- **TVAE** – Variational Autoencoder for tabular data (SDV_TVAE.ipynb)
-- **GC** - Gaussian Copula for tabular data (SDV_GC.ipynb)
+- **CTGAN** – Conditional GAN for tabular data (**Notebook:** `SDV_CTGAN.ipynb`)
+- **TVAE** – Variational Autoencoder for tabular data (**Notebook:** `SDV_TVAE.ipynb`)
+- **GC** - Gaussian Copula for tabular data (**Notebook:** `SDV_GC.ipynb`)
 ---
 
 ## Analysis and Evaluation
